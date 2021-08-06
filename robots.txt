@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://planet-minecraft-skins.herokuapp.com/host-https-www.planetminecraft.com/sitemap.xml
+Sitemap: https://planet-minecraft-skins.herokuapp.com/sitemap/sitemap.xml
